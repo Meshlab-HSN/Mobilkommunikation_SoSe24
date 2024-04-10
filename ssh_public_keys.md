@@ -10,10 +10,4 @@
 
 | Team |  VM IP	      | Student Name             |  public ssh key         |
 | :--: | :------------: | :----------------------: | :---------------------- |
-|1.|-|Laura Komma|
-AAAAB3NzaC1yc2EAAAADAQABAAABAQDQn5C3Fs+lN1dwqDq70wY5EtiVteh1XipE
-gOeY5N6sJcGmiIvffyyc8pbQJr5bikM88wrRzmD0JEh+EMovdbFhdDx5AnwsRS3T
-Dsc1qmmnEHWnMRE1zw1t3l1ewTBvp9tVlWiIc4pdmCryLw3j5f6hxqne2DWJnX/R
-HkfEG5Q9mVSk0UQhGtjyv+dB9Gn6GtuCaPW+UsROoyr2PiOKTLIoD+++h0WBlWpP
-Y3U1hj5UT3fS1tb3byOB29Km8EaJKCHXjQWvR7bIs84n2b3qrH7yyS86tOKUa8oe
-pYqkMySf+L11fwLhVEAiWXK2/WEelPH01RjawHqJKvooefziybgX|
+|1.|-|Laura Komma| ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQn5C3Fs+lN1dwqDq70wY5EtiVteh1XipEgOeY5N6sJcGmiIvffyyc8pbQJr5bikM88wrRzmD0JEh+EMovdbFhdDx5AnwsRS3TDsc1qmmnEHWnMRE1zw1t3l1ewTBvp9tVlWiIc4pdmCryLw3j5f6hxqne2DWJnX/RHkfEG5Q9mVSk0UQhGtjyv+dB9Gn6GtuCaPW+UsROoyr2PiOKTLIoD+++h0WBlWpPY3U1hj5UT3fS1tb3byOB29Km8EaJKCHXjQWvR7bIs84n2b3qrH7yyS86tOKUa8oepYqkMySf+L11fwLhVEAiWXK2/WEelPH01RjawHqJKvooefziybgX|
