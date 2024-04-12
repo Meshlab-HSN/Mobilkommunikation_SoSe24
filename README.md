@@ -16,3 +16,7 @@ Repo for the 'Mobilkommunikation' seminar course in summer semester 24
 
 MeshLab - Networking Seminar & Material   
 This repository provides sofware tools and documentation used in the Networking courses at HSN (Nordhausen - University of Applied Sciences). To create, configure, run and troubleshoot different network experiments a virtual machine (VM) based on OpenWrt Linux is used.
+
+# SSH keys
+
+In `ssh_keys.yaml` we will collect public SSH keys from you to provide you with a virtual machine running OpenWrt and access to it via private-public key authentication. See the file on how to add your SSH key to the list.
